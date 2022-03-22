@@ -1,4 +1,4 @@
-# Lista de Exercícios 3 - Unidade 2
+# Prova de recuperação - Unidade 3
 
 ### Nome: Coloque seu nome aqui
 ### Disciplina: Linguagem de Programação I
