@@ -1,6 +1,6 @@
 # Prova de recuperação - Unidade 3
 
-### Nome: Coloque seu nome aqui
+### Nome: Coloque seu nome aqui!
 ### Disciplina: Linguagem de Programação I
 ### Curso: Técnico em Informática - Turma X
 
